@@ -1,0 +1,61 @@
+import {createTable} from './lorm/utils/postgres';
+import QueryBuilder from './lorm/QueryBuilder';
+import * as pg from 'pg';
+import Column from './lorm/Sql/Column';
+
+
+
+
+
+(async function main() {
+
+    // rateablesMode.js
+
+    const rateableTable = await createTable({
+        pk: 'id',
+        tableName: 'Rateables',
+        include: ['CategoryId']
+    });
+
+    const rateableQB = new QueryBuilder();
+
+    rateableQB
+        .select(rateableTable.columns).from(rateableTable.name);
+        .save('base');
+
+
+    // placesModel.js
+
+    const placeTable = await createTable({
+        pk: 'id',
+        tableName: 'Places',
+        include: ['name', 'imageUri', 'RateableId']
+    });
+
+    const placeQB = new QueryBuilder();
+
+    placeQB
+        .select(placeTable.columns)
+        .sql(`FROM "Places"`)
+        .save('base');
+
+
+    const sql = placeQB.get('base')
+        .join(rateableQB.get('base'))
+        .render();
+
+
+    // // categories relation
+    // sql.push(`
+    //         LEFT JOIN "Rateables" ON "Places"."RateableId" = "Rateables"."id"
+    //         LEFT JOIN (
+    //             SELECT ${Place.entityCategoryOrm.columns} FROM "Categories"
+    //         ) AS "Categories" ON "Categories.id" = "Rateables"."CategoryId"
+    //     `);
+
+
+    console.log(sql);
+
+})();
+
+

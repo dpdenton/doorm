@@ -1,0 +1,19 @@
+{
+  "name": "lorm",
+  "version": "1.0.0",
+  "description": "Lightweight Object Relational Mapper",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.4.1",
+    "pg-db": "^1.1.0",
+    "pluralize": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^7.4.5"
+  }
+}
