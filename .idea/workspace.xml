@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7398ea45-25f3-4183-b067-08a9045e862c" name="Default" comment="" />
+    <list default="true" id="7398ea45-25f3-4183-b067-08a9045e862c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/main.ts" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/async.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/async.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/examples.js" afterPath="$PROJECT_DIR$/examples.js" />
+      <change beforePath="$PROJECT_DIR$/examples.ts" afterPath="$PROJECT_DIR$/examples.ts" />
+      <change beforePath="$PROJECT_DIR$/lorm/@types/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/@types/index.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Query/On.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/QueryBuilder.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/QueryBuilder.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/ResponseParser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/ResponseParser.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Action.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Action.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/As.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/As.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Column.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Column.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/From.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/From.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Join.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Join.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/On.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/On.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Select.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Select.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Sql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Sql.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Table.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/Table.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/Sql/index.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/types.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/types/types.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/utils/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/utils/index.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/utils/postgres.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lorm/utils/postgres.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/main" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/main.oldCols" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/main.oldCols.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/stale.json" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,112 +61,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="QueryBuilder.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder.ts">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-944">
-              <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="From.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lorm/Sql/From.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Join.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lorm/Sql/Join.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="postgres.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lorm/utils/postgres.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Table.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lorm/Sql/Table.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Select.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lorm/Sql/Select.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Select.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lorm/Sql/Select.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="examples.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -135,36 +83,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Set</find>
-      <find>target</find>
-      <find>assign</find>
-      <find>options</find>
-      <find>compiler</find>
-      <find>addAction</find>
-      <find>BaseQueryBuilder</find>
-      <find>getRel</find>
-      <find>save(</find>
-      <find>JOIN</find>
-      <find>alias</find>
-      <find>_rootTable</find>
-      <find>addJoinColumn</find>
-      <find>class On</find>
-      <find>class Join</find>
-      <find>hasCol</find>
-      <find>On</find>
-      <find>addJoin</find>
-      <find>Join</find>
-      <find>join</find>
-      <find>Select</find>
-      <find>From</find>
       <find>Table</find>
-      <find>from(</find>
       <find>Column</find>
       <find>QueryAction</find>
       <find>pg</find>
       <find>Review</find>
       <find>reviewTha</find>
+      <find>ResponseParser</find>
+      <find>r</find>
+      <find>_parseColumns</find>
+      <find>rateableQB</find>
+      <find>UserId</find>
       <find>action)</find>
+      <find>&lt;</find>
+      <find>console</find>
+      <find>userQB</find>
+      <find>found</find>
+      <find>reviewTableQB</find>
+      <find>getJoin</find>
+      <find>reorder</find>
+      <find>userTableQB</find>
+      <find>getManager()</find>
+      <find>from(</find>
+      <find>isOwn</find>
+      <find>JoinBlco</find>
+      <find>JoinBlock</find>
+      <find>options</find>
+      <find>this._relations.push</find>
+      <find>QueryMan</find>
+      <find>_columnToBlock</find>
+      <find>var relationship</find>
     </findStrings>
     <replaceStrings>
       <replace>rateable</replace>
@@ -173,6 +121,9 @@
       <replace>QueryBuilder</replace>
       <replace>Sql.Action</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -183,15 +134,11 @@
         <option value="$PROJECT_DIR$/types.ts" />
         <option value="$PROJECT_DIR$/lorm/types/index.ts" />
         <option value="$PROJECT_DIR$/tslint.json" />
-        <option value="$PROJECT_DIR$/lorm/ResponseParser.ts" />
         <option value="$PROJECT_DIR$/lorm/utils/index.ts" />
-        <option value="$PROJECT_DIR$/examples.ts" />
-        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/lorm/Column.ts" />
         <option value="$PROJECT_DIR$/lorm/QueryBuilder/PostgresQueryBuilder.ts" />
         <option value="$PROJECT_DIR$/lorm/Table.ts" />
         <option value="$PROJECT_DIR$/lorm/QueryBuilder/BaseQueryBuilder.ts" />
-        <option value="$PROJECT_DIR$/lorm/@types/index.ts" />
         <option value="$PROJECT_DIR$/lorm/QueryAction.js" />
         <option value="$PROJECT_DIR$/lorm/QueryAction.ts" />
         <option value="$PROJECT_DIR$/lorm/Queries/Sql.ts" />
@@ -212,17 +159,26 @@
         <option value="$PROJECT_DIR$/query.txt" />
         <option value="$PROJECT_DIR$/lorm/async.ts" />
         <option value="$PROJECT_DIR$/async.ts" />
-        <option value="$PROJECT_DIR$/lorm/utils/postgres.ts" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/lorm/Sql/As.ts" />
-        <option value="$PROJECT_DIR$/lorm/Sql/Column.ts" />
         <option value="$PROJECT_DIR$/lorm/Sql/Sql.ts" />
-        <option value="$PROJECT_DIR$/lorm/Sql/Join.ts" />
         <option value="$PROJECT_DIR$/lorm/Sql/Select.ts" />
         <option value="$PROJECT_DIR$/lorm/Sql/Select.js" />
+        <option value="$PROJECT_DIR$/lorm/Sql/Column.ts" />
         <option value="$PROJECT_DIR$/lorm/Sql/Table.ts" />
+        <option value="$PROJECT_DIR$/lorm/utils/postgres.ts" />
+        <option value="$PROJECT_DIR$/lorm/Sql/Join.ts" />
+        <option value="$PROJECT_DIR$/workbench.ts" />
         <option value="$PROJECT_DIR$/lorm/QueryBuilder.ts" />
+        <option value="$PROJECT_DIR$/lorm/ResponseParser.ts" />
+        <option value="$PROJECT_DIR$/lorm/package.json" />
+        <option value="$PROJECT_DIR$/lorm/@types/index.ts" />
+        <option value="$PROJECT_DIR$/workbench.js" />
+        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/main" />
+        <option value="$PROJECT_DIR$/main.ts" />
+        <option value="$PROJECT_DIR$/examples.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -241,11 +197,13 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="796" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -261,60 +219,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="orm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="orm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-              <item name="lorm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="orm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-              <item name="lorm" type="462c0819:PsiDirectoryNode" />
-              <item name="Sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="orm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-              <item name="lorm" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="doorm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doorm" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="debugger.dataViews" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.tslint" value="" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="Join&#9;null&#9;null" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lorm" />
+      <recent name="$PROJECT_DIR$/lorm/Queries" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lorm" />
       <recent name="$PROJECT_DIR$/lorm/QueryBuilder" />
       <recent name="$PROJECT_DIR$/lorm/types" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lorm/Queries" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/lorm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -329,11 +272,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.main.js">
     <configuration name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="workbench.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="workbench.js" working-dir="$PROJECT_DIR$" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.workbench.js" />
+    </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.workbench.js" />
       </list>
     </recent_temporary>
   </component>
@@ -351,46 +300,76 @@
       <option name="presentableId" value="Default" />
       <updated>1522171385438</updated>
       <workItem from="1522171386762" duration="102210000" />
+      <workItem from="1523362274202" duration="10666000" />
+      <workItem from="1523901438681" duration="598000" />
+      <workItem from="1523970792490" duration="10897000" />
+      <workItem from="1524678773923" duration="4000" />
+      <workItem from="1525185074423" duration="60000" />
+      <workItem from="1525188181521" duration="3277000" />
+      <workItem from="1526123146580" duration="2365000" />
+      <workItem from="1526130994096" duration="6112000" />
+      <workItem from="1526384623639" duration="8460000" />
+      <workItem from="1526394638805" duration="27243000" />
+      <workItem from="1526914398012" duration="763000" />
+      <workItem from="1527256261603" duration="6343000" />
+      <workItem from="1537888593139" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102210000" />
+    <option name="totallyTimeSpent" value="233392000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19170243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5744681" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57596684" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25608012" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6397163" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lorm/ResponseParser.js" />
-        <option value="$PROJECT_DIR$/lorm/utils/postgres.js" />
-        <option value="$PROJECT_DIR$/lorm/utils/index.js" />
         <option value="$PROJECT_DIR$/examples.js" />
-        <option value="$PROJECT_DIR$/lorm/QueryBuilder.js" />
-        <option value="$PROJECT_DIR$/lorm/Sql/index.js" />
       </list>
     </option>
   </component>
@@ -399,122 +378,35 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/QueryBuilder.ts">
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Join.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Join.ts" />
+    <entry file="file://$PROJECT_DIR$/main.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-760">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tslint.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/ResponseParser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Column.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="79" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="79" column="70" lean-forward="false" selection-start-line="79" selection-start-column="70" selection-end-line="79" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder/BaseQueryBuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Table.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="101" column="1" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="101" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder/BaseQueryBuilder.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder/PostgresQueryBuilder.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/@types/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/QueryAction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="429" column="0" lean-forward="false" selection-start-line="429" selection-start-column="0" selection-end-line="429" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/QueryAction.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="165" column="1" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="165" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/On.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/QueryBuilder.ts" />
+    <entry file="file://$PROJECT_DIR$/tslint.json" />
+    <entry file="file://$PROJECT_DIR$/lorm/Column.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Table.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder/BaseQueryBuilder.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/Table.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder/BaseQueryBuilder.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder/PostgresQueryBuilder.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/QueryAction.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/QueryAction.ts" />
     <entry file="file://$PROJECT_DIR$/node_modules/pluralize/pluralize.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -522,209 +414,92 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-297">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/index.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Action.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/utils/index.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/pg/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="121" column="4" lean-forward="false" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.oldCols" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Select.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Join.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Sql.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/As.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Column.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Join.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/From.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Table.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/ResponseParser.original.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/On.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/Sql/Select.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/ResponseParser.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/types.js" />
+    <entry file="file://$PROJECT_DIR$/lorm/package.json" />
+    <entry file="file://$PROJECT_DIR$/lorm/utils/postgres.ts" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/index.ts">
+    <entry file="file://$PROJECT_DIR$/lorm/@types/index.ts" />
+    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder.ts" />
+    <entry file="file://$PROJECT_DIR$/workbench.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="17805">
+          <caret line="1200" column="4" lean-forward="false" selection-start-line="1200" selection-start-column="4" selection-end-line="1200" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/Action.ts">
+    <entry file="file://$PROJECT_DIR$/lorm/ResponseParser.ts" />
+    <entry file="file://$PROJECT_DIR$/examples.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1035">
+          <caret line="69" column="28" lean-forward="true" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async.ts" />
+    <entry file="file://$PROJECT_DIR$/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2229">
+          <caret line="415" column="0" lean-forward="false" selection-start-line="415" selection-start-column="0" selection-end-line="415" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/query.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stale.json" />
+    <entry file="file://$PROJECT_DIR$/workbench.ts" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/async.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/utils/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/@types/pg/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="121" column="4" lean-forward="false" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.oldCols">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="73" column="40" lean-forward="false" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stale.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/As.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/Sql.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/ResponseParser.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/Join.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="54" column="15" lean-forward="true" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/Column.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
-          <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/Select.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/Select.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/utils/postgres.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/Table.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/Join.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/Sql/From.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lorm/QueryBuilder.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-944">
-          <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
