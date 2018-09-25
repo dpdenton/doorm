@@ -1,5 +1,6 @@
 # JB
 .idea
+*.js
 
 # Logs
 logs
